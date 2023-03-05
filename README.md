@@ -1,7 +1,7 @@
 # A-Comparison-For-Data-Driven-Approach
 the code for paper: A Comparison of Data-Driven Approaches to Build Low- Dimensional Ocean Models
 
-# Reduced-Order Ocean Modeling (ROOM)
+## Reduced-Order Ocean Modeling (ROOM)
 We have employed several data-driven methods to obtain a low-cost data-driven upper ocean emulator for use in coupled ocean-atmosphere models.
 The reference dataset is provided by the solution of a three-layer quasi-geostrophic ocean circulation model.
 We model the top-150 PCs of the spatio-temporal solutions using different methods, obtain forecasts, project them back to the physical space using EOFs, and then assess the accuracy, stability, and computational cost of theie solutions.
