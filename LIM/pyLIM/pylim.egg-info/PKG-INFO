@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: pylim
+Version: 0.9.1
+Summary: A Python-based linear inverse modeling suite
+Home-page: https://github.com/frodre/pyLIM
+Author: Andre Perkins
+Author-email: wperkins@uw.edu
+License: MIT
+Description: Basic package to calibrate and forecast using linear
+                               inverse models.  Provides some data tools to handle
+                               experiments and calibration on large data.  Based on
+                               publications by Penland & Sardeshmukh 1995 and Newman
+                               2013.
+Keywords: linear inverse modeling; paleoclimate
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Scientists
+Classifier: Topic :: Paleoclimate :: Linear Modeling
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3Programming Language :: Python :: 3.6
